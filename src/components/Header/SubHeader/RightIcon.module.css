@@ -1,0 +1,14 @@
+.righticons {
+    display: flex;
+    color: white;
+    padding-right: 12px;
+    
+    grid-gap: 5px;
+    display: flex;
+    font-size: 14px;
+
+}
+
+h5 {
+    font-size: 14px;
+}

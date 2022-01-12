@@ -1,0 +1,20 @@
+.subHeader1 h6{
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-left: 18px;
+}
+
+.subHeader1 .leftIcon {
+    color: white;
+    padding: 4px;
+    grid-gap: 5px;
+    display: flex;
+    font-size: 14px;
+    
+}
+
+.subHeader1 {
+    display: flex;
+    justify-content: space-between;
+}

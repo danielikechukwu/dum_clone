@@ -1,0 +1,21 @@
+.subHeader2 {
+    padding-top: 17px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.subHeader2 h3 {
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 13px;
+    margin-top: -9px;
+}
+
+.rightIconSubHeader2 {
+    color: white;
+    grid-gap: 6px;
+    display: flex;
+    padding-right: 12px;
+}
